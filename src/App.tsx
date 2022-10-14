@@ -31,6 +31,7 @@ function App() {
               <span>{el.id} - </span>
               <span>{el.title}</span>
               <span>{el.completed}</span>
+              <span>{el.completed}</span>
             </li>
           );
         })}
